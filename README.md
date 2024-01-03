@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://www.iakademi.com/wp-content/uploads/2021/05/kodlama-yapabilmek-icin-gerekli-programlama-dilleri.png" alt="Header Image"/>
 </p>
@@ -17,39 +16,53 @@
   📫 How to reach me: <strong>iremalaiye@gmail.com</strong><br>
 </p>
 
-### Education:
-- Izmir Atatürk High School
-- Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)
-- Management Info Systems at Eskişehir Anadolu Uni (3rd year)
+<p align="center">  
+  <strong>Education:</strong><br>
+  - Izmir Atatürk High School<br>
+  - Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)<br>
+  - Management Info Systems at Eskişehir Anadolu Uni (3rd year)
+</p>
 
-### Programming Skills:
-- **Languages:**
-  - Python
-  - Java
+<p align="center">
+  <strong>Programming Skills:</strong><br>
+  - <strong>Languages:</strong><br>
+    - Python<br>
+    - Java
+</p>
 
-### Internship:
-- Nobel Navigators
+<p align="center">
+  <strong>Internship:</strong><br>
+  - Nobel Navigators
+</p>
 
-### Activities:
-- **Google DSC:**
-  - 🛠 Technical Core Team Member
-- **Huawei Student Developers:**
-  - 📱 Social Media Committee Member
-- **Young Executive Academy:**
-  - 🚀 Trainee in Software Technologies and AI
+<p align="center">
+  <strong>Activities:</strong><br>
+  - <strong>Google DSC:</strong><br>
+    - 🛠 Technical Core Team Member<br>
+  - <strong>Huawei Student Developers:</strong><br>
+    - 📱 Social Media Committee Member<br>
+  - <strong>Young Executive Academy:</strong><br>
+    - 🚀 Trainee in Software Technologies and AI
+</p>
 
-### Volunteering:
-- **TEMA (Soil Erosion, Reforestation):**
-  - 🌱 Volunteer
-- **TOG (Turkey Youth Foundation):**
-  - 🤝 Volunteer
+<p align="center">
+  <strong>Volunteering:</strong><br>
+  - <strong>TEMA (Soil Erosion, Reforestation):</strong><br>
+    - 🌱 Volunteer<br>
+  - <strong>TOG (Turkey Youth Foundation):</strong><br>
+    - 🤝 Volunteer
+</p>
 
-### University Involvement in Clubs:
-- Active in Computer and Informatics Community
-- Active in Innovation and Technology Community
+<p align="center">
+  <strong>University Involvement in Clubs:</strong><br>
+  - Active in Computer and Informatics Community<br>
+  - Active in Innovation and Technology Community
+</p>
 
-### Language Skills:
-- Strong command of English
+<p align="center">
+  <strong>Language Skills:</strong><br>
+  - Strong command of English
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
