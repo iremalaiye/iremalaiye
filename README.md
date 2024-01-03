@@ -5,6 +5,38 @@
 - 🌱 I’m currently learning **Java,Python**
 
 - 📫 How to reach me **iremalaiye@gmail.com**
+- 🎓 Education:
+**Izmir Atatürk High School**
+**Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)**
+**Management Info Systems at Eskişehir Anadolu Uni (3rd year)**
+-💻 Programming:
+**Python
+Java**
+-🌐 Internship:
+**Nobel Navigators**
+-Activities:
+**Google DSC:
+🛠 Technical Core Team Member
+Huawei Student Developers:
+📱 Social Media Committee Member
+Young Executive Academy:
+🚀 Trainee in Software Technologies and AI**
+-Volunteering:
+**TEMA (Soil Erosion, Reforestation):
+🌱 Volunteer
+TOG (Turkey Youth Foundation):
+🤝 Volunteer**
+-University Involvement in Clubs:
+**Active in Computer and Informatics Community
+Active in Innovation and Technology Community**
+-🌐 Language Skills:
+**Strong command of English**
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
