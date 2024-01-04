@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm İrem ALAİYE</h1>
+<h1 align="center">Hi,I'm İrem ALAİYE ❤ </h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
   📫 How to reach me: <strong>iremalaiye@gmail.com</strong><br>
 </p>
 
-<p align="center">  
+<p align="left">  
   <strong>🎓 Education:</strong><br>
   - Izmir Atatürk High School<br>
   - Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)<br>
@@ -33,7 +33,7 @@
     - Java
 </p>
 
-<p align="center">
+<p align="left">
   <strong>💼 Internship:</strong><br>
   - Nobel Navigators
 </p>
@@ -48,7 +48,7 @@
      🚀 Trainee in Software Technologies and AI
 </p>
 
-<p align="center">
+<p align="left">
   <strong>🌱 Volunteering:</strong><br>
   - TEMA (Soil Erosion, Reforestation):</strong><br>
     - 🌱 Volunteer<br>
@@ -62,7 +62,7 @@
   - Active in Innovation and Technology Community
 </p>
 
-<p align="center">
+<p align="left">
   <strong>🌐 Language Skills:</strong><br>
   - Strong command of English
 </p>
@@ -76,9 +76,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremalaiye&show_icons=true&locale=en&layout=compact" alt="iremalaiye" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremalaiye&show_icons=true&locale=en&layout=compact" alt="iremalaiye" /></p>
 
 <p align="center">&nbsp;</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iremalaiye&show_icons=true&locale=en" alt="iremalaiye" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremalaiye&" alt="iremalaiye" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremalaiye&" alt="iremalaiye" /></p>
