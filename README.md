@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://www.iakademi.com/wp-content/uploads/2021/05/kodlama-yapabilmek-icin-gerekli-programlama-dilleri.png" alt="Header Image"/>
+  <img src="https://i.pinimg.com/564x/82/4a/a9/824aa9e748af35d3d5091d03e8049acc.jpg" alt="Header Image" width="20%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm İrem ALAİYE</h1>
@@ -17,26 +18,26 @@
 </p>
 
 <p align="center">  
-  <strong>Education:</strong><br>
+  <strong>🎓 Education:</strong><br>
   - Izmir Atatürk High School<br>
   - Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)<br>
   - Management Info Systems at Eskişehir Anadolu Uni (3rd year)
 </p>
 
 <p align="center">
-  <strong>Programming Skills:</strong><br>
+  <strong>💻 Programming Skills:</strong><br>
   - <strong>Languages:</strong><br>
     - Python<br>
     - Java
 </p>
 
 <p align="center">
-  <strong>Internship:</strong><br>
+  <strong>💼 Internship:</strong><br>
   - Nobel Navigators
 </p>
 
 <p align="center">
-  <strong>Activities:</strong><br>
+  <strong>🚀 Activities:</strong><br>
   - <strong>Google DSC:</strong><br>
     - 🛠 Technical Core Team Member<br>
   - <strong>Huawei Student Developers:</strong><br>
@@ -46,7 +47,7 @@
 </p>
 
 <p align="center">
-  <strong>Volunteering:</strong><br>
+  <strong>🌱 Volunteering:</strong><br>
   - <strong>TEMA (Soil Erosion, Reforestation):</strong><br>
     - 🌱 Volunteer<br>
   - <strong>TOG (Turkey Youth Foundation):</strong><br>
@@ -54,13 +55,13 @@
 </p>
 
 <p align="center">
-  <strong>University Involvement in Clubs:</strong><br>
+  <strong>🎓 University Involvement in Clubs:</strong><br>
   - Active in Computer and Informatics Community<br>
   - Active in Innovation and Technology Community
 </p>
 
 <p align="center">
-  <strong>Language Skills:</strong><br>
+  <strong>🌐 Language Skills:</strong><br>
   - Strong command of English
 </p>
 
