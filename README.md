@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/82/4a/a9/824aa9e748af35d3d5091d03e8049acc.jpg" alt="Header Image" width="20%"/>
+  <img src="https://i.pinimg.com/564x/82/4a/a9/824aa9e748af35d3d5091d03e8049acc.jpg" alt="Header Image" width="40%"/>
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm İrem ALAİYE</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
@@ -38,19 +40,19 @@
 
 <p align="center">
   <strong>🚀 Activities:</strong><br>
-  - <strong>Google DSC:</strong><br>
-    - 🛠 Technical Core Team Member<br>
-  - <strong>Huawei Student Developers:</strong><br>
-    - 📱 Social Media Committee Member<br>
-  - <strong>Young Executive Academy:</strong><br>
-    - 🚀 Trainee in Software Technologies and AI
+  - Google DSC:</strong><br>
+     🛠 Technical Core Team Member<br>
+  - Huawei Student Developers:</strong><br>
+     📱 Social Media Committee Member<br>
+  - Young Executive Academy:</strong><br>
+     🚀 Trainee in Software Technologies and AI
 </p>
 
 <p align="center">
   <strong>🌱 Volunteering:</strong><br>
-  - <strong>TEMA (Soil Erosion, Reforestation):</strong><br>
+  - TEMA (Soil Erosion, Reforestation):</strong><br>
     - 🌱 Volunteer<br>
-  - <strong>TOG (Turkey Youth Foundation):</strong><br>
+  - TOG (Turkey Youth Foundation):</strong><br>
     - 🤝 Volunteer
 </p>
 
