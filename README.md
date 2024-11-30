@@ -22,8 +22,8 @@
 <p align="left">  
   <strong>🎓 Education:</strong><br>
   - Izmir Atatürk High School<br>
-  - Studying Computer Engineering at Muğla Sıtkı Koçman Uni (2nd year)<br>
-  - Management Info Systems at Eskişehir Anadolu Uni (3rd year)
+  - Studying Computer Engineering at Muğla Sıtkı Koçman Uni (3nd year)<br>
+  - Management Info Systems at Eskişehir Anadolu Uni (4th year)
 </p>
 
 <p align="center">
