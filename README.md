@@ -45,9 +45,9 @@
   - Huawei Student Developers:</strong><br>
      📱 Social Media Committee Member<br>
   - Young Executive Academy:</strong><br>
-     🚀 Trainee in Software Technologies and AI
-  -Yetgen
-  -Google Game and Application Academy
+     🚀 Trainee in Software Technologies and AI<br>
+  -Yetgen<br>
+  -Google Game and Application Academy<br>
 </p>
 
 <p align="left">
