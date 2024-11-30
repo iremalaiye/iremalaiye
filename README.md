@@ -46,6 +46,8 @@
      📱 Social Media Committee Member<br>
   - Young Executive Academy:</strong><br>
      🚀 Trainee in Software Technologies and AI
+  -Yetgen
+  -Google Game and Application Academy
 </p>
 
 <p align="left">
