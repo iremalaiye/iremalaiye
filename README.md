@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Java,Python</strong><br>
+  🌱 I’m currently learning <strong>Java,Python,flutter,AI,Web Development and Programming, Mobile Application Development</strong><br>
   📫 How to reach me: <strong>iremalaiye@gmail.com</strong><br>
 </p>
 
